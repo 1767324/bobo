@@ -1,0 +1,32 @@
+vmess=104.19.85.187:443, method=aes-128-gcm, password=9016e4f6-cace-4f8a-8f1e-e492de882c22, obfs=wss, obfs-host=hidden-lake-376f.iui.workers.dev, obfs-uri=/, tls-verification=true, fast-open=false, udp-relay=false, tag=转号专用
+
+
+trojan=k.chen.games:443, password=3721, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=[kurun]k.chen.games:443
+
+
+trojan=cn.chen.games:443, password=3721, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=[月付25gia]cn.chen.games:443
+
+
+
+
+
+trojan=az.gonxun.com:443, password=3721, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=[AZ香港]az.gonxun.com:443
+
+
+trojan=bbc.gonxun.com:443, password=3721, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=[buyvm美国机器]bbc.gonxun.com:443
+
+
+
+
+
+trojan=awr.zzavefki.icu:443, password=fRUttqqp, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=hk-rl
+
+trojan=qe.loseitall.xyz:443, password=YhYYUuVM, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=us-nn
+
+trojan=st.amdyes.us:443, password=IUPvdGhB, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=us-tk
+
+
+
+trojan=upe.gqehzsnyp.icu:443, password=EFsNJQyc, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=us-gl
+
+http= 82.156.25.236:8888, username=3721, password=1234, fast-open=false, udp-relay=false, tag=和平
